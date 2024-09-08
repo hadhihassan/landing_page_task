@@ -3,7 +3,7 @@ import v1 from '../../assets/Vector6.svg'
 import v2 from '../../assets/Group381.png'
 export default function Heading() {
     return (
-        <div className="bg-[#090913] sm:px-28 px-8 sm:py-10 py-2 w-full h-[740px]">
+        <div className="bg-[#090913] sm:px-28 px-8 sm:py-10 py-2 w-full h-[740px] bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-cyan-200 from-3% via-[#090913] via-45% to-[#090913]">
             <div className=''>
                 <p className='sm:w-[50%] w-full sm:text-6xl text-4xl text- text-green-500 sm:tracking-wider'>Learner Benefits</p>
             </div>
