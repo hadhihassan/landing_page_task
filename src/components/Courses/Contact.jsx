@@ -80,7 +80,7 @@ export default function Contact() {
                                         ></input>
                                     </div>
                                     <button
-                                        className="w-full bg-green-400 text-gray-800 py-2 px-4 rounded-lg hover:bg-yellow-400 transition duration-300"
+                                        className="w-full bg-green-400 text-gray-800 py-2 px-4 rounded-lg  transition duration-300"
                                         type=""
                                     >
                                         Send Message

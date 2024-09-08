@@ -15,7 +15,13 @@ export default function About() {
                     </div>
                     {/* Description */}
                     <div className="flex items-end justify-end pr-12 pt-5 sm:flex hidden">
-                        <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                    <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                     </div>
                 </div>
                 {/* Cards */}
@@ -30,8 +36,12 @@ export default function About() {
                             >The skill set required for jobs are changing every day.</p>
                         </div>
                         <div className="h-full flex items-end justify-end  pr-6">
-                            <button className="border py-1 px-4 text-sm font-sans rounded-full border-gray-500 text-green-400">
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
                                 Read more
+
                             </button>
                         </div>
                     </div>
@@ -45,8 +55,12 @@ export default function About() {
                             >Our Overseas education consultants will be helping you to find the best course or university</p>
                         </div>
                         <div className="h-full flex items-end justify-end  pr-6 -mb-16">
-                            <button className="border py-1 px-4 text-sm font-sans rounded-full border-gray-500 text-green-400">
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
                                 Read more
+
                             </button>
                         </div>
                     </div>
@@ -60,8 +74,12 @@ export default function About() {
                             >We believe education is life-long. Our distance education program for students will help them acquire </p>
                         </div>
                         <div className="h-full flex items-end justify-end -mb-24  pr-6">
-                            <button className="border py-1 px-4 text-sm font-sans rounded-full border-gray-500 text-green-400">
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
                                 Read more
+
                             </button>
                         </div>
                     </div>
@@ -75,8 +93,12 @@ export default function About() {
                             >Ad-on courses are an excellent way of getting more out of your degree and career.</p>
                         </div>
                         <div className="h-full flex items-end justify-end  pr-6">
-                            <button className="border py-1 px-4 text-sm font-sans rounded-full border-gray-500 text-green-400">
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
                                 Read more
+
                             </button>
                         </div>
                     </div>

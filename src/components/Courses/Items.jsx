@@ -26,7 +26,13 @@ export default function Items() {
                             </p>
                         </div>
                         <div className="flex items-end justify-end mt-5 mb-2 ml-3">
-                            <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                         </div>
                     </div>
                     <div className=" sm:gird border border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
@@ -39,7 +45,13 @@ export default function Items() {
                             </p>
                         </div>
                         <div className="flex items-end justify-end mt-5 mb-2 ml-3">
-                            <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                         </div>
                     </div>
                     <div className="border  border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
@@ -52,7 +64,13 @@ export default function Items() {
                             </p>
                         </div>
                         <div className="flex items-end justify-end mt-5 mb-2 ml-3">
-                            <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                         </div>
                     </div>
                     <div className="border border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
@@ -65,7 +83,13 @@ export default function Items() {
                             </p>
                         </div>
                         <div className="flex items-end justify-end mt-5 mb-2 ml-3">
-                            <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                         </div>
                     </div>
                     <div className="border border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
@@ -78,7 +102,13 @@ export default function Items() {
                             </p>
                         </div>
                         <div className="flex items-end justify-end mt-5 mb-2 ml-3">
-                            <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
+                            <button
+                                className="font-sans flex justify-center text-green-400 gap-2 items-center  shadow-xl text-sm  bg-transparent backdrop-blur-md  isolation-auto border-gray-400 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-green-500 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-1 overflow-hidden border rounded-full group"
+                                type="submit"
+                            >
+                                Read more
+
+                            </button>
                         </div>
                     </div>
                 </div>
