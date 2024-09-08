@@ -1,7 +1,7 @@
 import { Slider } from '../Courosal/Courosal'
 export default function Items() {
     return (
-        <div className="h-auto bg-[#090913] sm:pt-8 p-2  text-white flex-col justify-center items-start bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#01F19B] via-[#090913] to-[#090913] ">
+        <div className="h-auto  bg-[#090913] sm:pt-8 p-2  text-white flex-col justify-center items-start bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#01F19B] via-[#090913] to-[#090913] ">
             <div className="flex flex-col justify-center items-center">
                 <button className="bg-gray-600 w-48 h-14 text-center text-xl font-light rounded-full bg-opacity-70 mb-1">
                     Courses
@@ -42,7 +42,7 @@ export default function Items() {
                             <button className="border py-1 px-3 text-sm font-sans rounded-full border-gray-500 text-green-400">Read More</button>
                         </div>
                     </div>
-                    <div className="border border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
+                    <div className="border  border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px]">
                         <div>
                             <p className="font-semibold text-2xl">
                                 BBA Computer Application

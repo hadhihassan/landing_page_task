@@ -1,5 +1,6 @@
 import img from '../../assets/Group207.png'
 import CustomeDivVector from '../../assets/Vector4.png'
+import FaiveStart from '../../assets/5start.png'
 import ChatIcon from '../../assets/fs.png'
 import GameIcon from '../../assets/game.png'
 import GrowthIcon from '../../assets/growth.png'
@@ -7,7 +8,7 @@ import GrowthIcon from '../../assets/growth.png'
 function IntroSection() {
     return (
         <>
-            <div className='flex overflow-y-hidden'>
+            <div className='flex overflow-y-hidden '>
                 <div className='h-[670px] sm:col-span-2 overflow-x-auto overflow-x-hidden col-span-1 pt-0 sm:pt-28 overflow-xhidden'>
                     <div className='w-full gap-7 ml-8'>
 
@@ -29,54 +30,54 @@ function IntroSection() {
                         </div>
                     </div>
                     <div className=' sm:pt-20 pt-56 flex gap-36 col-span-1 sm:col-span-1 animate-infinite-scroll1'>
-                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans'>
+                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans w-[70px]'>
                             <img src={CustomeDivVector} className='h-48 z-10 absolute' alt="" ></img>
-                            <div className='pt-5 pl-5 grid gap-4  text-green-400'>
+                            <div className='pt-7 pl-5 grid gap-4  text-green-400'>
                                 <div className=''>
-                                    <img src={GrowthIcon} alt="" />
+                                    <img src={FaiveStart}  alt="" />
                                 </div>
                                 <div>
-                                    <p className='text-1xl font-bold'>4.8/5</p>
-                                    <p className='text-1xl font-bold'>rating</p>
+                                    <p className='text-xl font-semibold'>4.8/5</p>
+                                    <p className='text-xl font-semibold'>rating</p>
                                 </div>
                             </div>
                         </div>
-                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans'>
+                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans w-[70px]'>
                             <img src={CustomeDivVector} className='h-48 z-10 absolute' alt="" ></img>
                             <div className='pt-5 pl-5 grid gap-4 text-green-400'>
                                 <div>
                                     <img src={GrowthIcon} alt="" />
                                 </div>
                                 <div>
-                                    <p className='text-1xl font-bold'>
+                                    <p className='text-xl font-semibold'>
                                         1000
                                     </p>
-                                    <p className='text-1xl font-bold'>
+                                    <p className='text-xl font-semibold'>
                                         career
                                     </p>
-                                    <p className='text-1xl font-bold'>
+                                    <p className='text-xl font-semibold'>
                                         transaction
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans'>
+                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans w-[70px]'>
                             <img src={CustomeDivVector} className='h-48 z-10 absolute' alt="" ></img>
                             <div className='pt-5 pl-5 grid gap-4  text-green-400'>
                                 <img src={GameIcon} alt="" />
-                                <div className='break-words font-bold text-1xl'>
-                                    Gamified Learning <br />
-                                    24*7 learning Support. <br />
+                                <div className='break-words font-semibold text-xl w-[190px]'>
+                                    Gamified Learning
+                                    24*7 learning Support. 
                                 </div>
                             </div>
                         </div>
-                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans'>
+                        <div className='rounded flex-row text-start font-thin   text-green-100 font-sans w-[70px]'>
                             <img src={CustomeDivVector} className='h-48 z-10 absolute' alt="" ></img>
                             <div className='pt-5 pl-5 grid gap-4  text-green-400'>
                                 <img src={ChatIcon} alt="" />
-                                <div className='break-words font-bold text-1xl'>
+                                <div className='break-words font-semibold text-xl w-[190px] '>
                                     1:1 <br />
-                                    with industry <br /> mentors
+                                    with industry  mentors
                                 </div>
                             </div>
                         </div>
