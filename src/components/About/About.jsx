@@ -7,7 +7,7 @@ export default function About() {
                     <div className="sm:flex sm:justify-between ">
 
                         <p
-                            className='sm:w-[50%] w-[100%]  sm:text-4xl text-xl text-start text-gray-200 tracking-wider'><span className='text-green-500'>About of</span> School Of Science <br /> & Managment
+                            className='sm:w-[50%] w-[100]  sm:text-4xl text-xl text-start text-gray-200 tracking-wider'><span className='text-green-500'>About of</span> School Of Science <br /> & Managment
                         </p>
                         <p className="break-words break-all  sm:pt-0 pt-3 text-gray-200 font-sans sm:px-12  sm:w-[50%]">
                             Academy Is a fully accredited institution with its headquarter in Calicut. The institution prides itself for being a vibrant effort from the part of highly experienced entrepreneurs who had successfully proved themselves in a range of academic fields
@@ -19,7 +19,7 @@ export default function About() {
                     </div>
                 </div>
                 {/* Cards */}
-                <div className="text-white grid sm:grid-cols-4 grid-cols-1 gap-3 bg-transparent h-auto  w-full">
+                <div className="text-white grid sm:grid-cols-4 grid-cols-1 gap-3 bg-transparent h-auto  w-full ">
                     <div
                         className="grid gap-16 grid-cols-1 bg-[radial-gradient(ellipse_at_bottom_left,_var(--tw-gradient-stops))] from-cyan-300 via-[#090913] to-[#090913] bg-transparent h-[350px] border border-gray-500 rounded-3xl  pt-16 pb-2">
                         <div className='grid gap-3 px-10'>

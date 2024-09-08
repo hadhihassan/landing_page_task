@@ -1,7 +1,7 @@
-
+import { Slider } from '../Courosal/Courosal'
 export default function Items() {
     return (
-        <div className="h-auto bg-[#090913] sm:pt-8 p-2  text-white flex-col justify-center items-start ">
+        <div className="h-auto bg-[#090913] sm:pt-8 p-2  text-white flex-col justify-center items-start bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#01F19B] via-[#090913] to-[#090913] ">
             <div className="flex flex-col justify-center items-center">
                 <button className="bg-gray-600 w-48 h-14 text-center text-xl font-light rounded-full bg-opacity-70 mb-1">
                     Courses
@@ -14,8 +14,9 @@ export default function Items() {
                     Your task is to develop the UI as shown in the PDF.
                 </p>
             </div>
-            <div className="p-12 h-auto ">
-                <div className="border rounded-2xl h-auto grid sm:grid-cols-3 items-center p-10  gap-5 bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-blue-800 from-5%  via-[#090913] via-25% to-[#090913]">
+            <div className="sm:p-12 p-5 h-auto overflow-x-hidden">
+                <Slider />
+                <div className="border hidden sm:grid rounded-2xl h-auto  sm:grid-cols-3   items-center p-10  gap-5 bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-blue-800 from-5%  via-[#090913] via-25% to-[#090913]">
                     <div className="border border-green-700 rounded-2xl px-10 pt-10 pb-1 h-auto w-[370px] ">
                         <div>
                             <p className="font-semibold text-2xl">

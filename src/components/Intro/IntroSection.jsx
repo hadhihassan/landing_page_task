@@ -1,6 +1,5 @@
 import img from '../../assets/Group207.png'
 import CustomeDivVector from '../../assets/Vector4.png'
-import FiveStarIcon from '../../assets/5start.png'
 import ChatIcon from '../../assets/fs.png'
 import GameIcon from '../../assets/game.png'
 import GrowthIcon from '../../assets/growth.png'
