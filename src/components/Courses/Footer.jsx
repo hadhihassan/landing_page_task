@@ -42,7 +42,7 @@ export default function Footer() {
                         </li>
                     </ul>
                 </div>
-                <div className="text-white flex items-end sm:justify-end justify-center  w-[85%] pb-7">
+                <div className="text-white flex items-end sm:justify-end justify-start sm:ml-0  ml-8  w-[85%] pb-7">
                     <ul className="flex gap-10">
                         <li><img src={face} alt="" /></li>
                         <li><img src={insta} alt="" /></li>

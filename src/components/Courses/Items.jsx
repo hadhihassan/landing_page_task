@@ -9,9 +9,8 @@ export default function Items() {
                 <p className="sm:text-7xl text-5xl text-gray-200 sm:tracking-wider sm:mt-0 mt-2">
                     <span className="text-green-400">Courses</span>  Available
                 </p>
-                <p className="break-words text-center mt-5 font-sans font-normal">
-                    As part of the MERN Developer position, I’m sharing a task with you. Please find attached figma designs. <br />
-                    Your task is to develop the UI as shown in the PDF.
+                <p className="break-words text-center mt-5 font-sans font-normal capitalize ">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae blandit lectus. Praesent at <br /> hendrerit velit, at dictum nisl.
                 </p>
             </div>
             <div className="sm:p-12 p-5 h-auto overflow-x-hidden">
