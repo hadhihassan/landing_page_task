@@ -29,7 +29,7 @@ function IntroSection() {
 
                         </div>
                     </div>
-                    <div className=' sm:pt-20 pt-56 flex gap-36 col-span-1 sm:col-span-1 animate-infinite-scroll1'>
+                    <div className=' sm:pt-20 pt-56 flex gap-36 col-span-1 sm:col-span-1 animate-infinite-scroll'>
                         <div className='rounded flex-row text-start font-thin   text-green-100 font-sans w-[70px]'>
                             <img src={CustomeDivVector} className='h-48 z-10 absolute' alt="" ></img>
                             <div className='pt-7 pl-5 grid gap-4  text-green-400'>
